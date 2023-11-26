@@ -4,11 +4,11 @@ Selamat datang! Repository ini berisi file pembelajaran standard library di baha
 
 ## Apa yang dipelajari?
 
-[//]: # (1. ****)
+1. **[fmt](https://pkg.go.dev/fmt)**
 
 ## Sumber Daya Eksternal
 
-- [Dokumentasi Resmi Go](https://golang.org/doc/) - Baca dokumentasi resmi untuk mendapatkan informasi lebih lanjut.
+- [Dokumentasi Standard Library Go](https://pkg.go.dev/std) - Baca dokumentasi resmi untuk mendapatkan informasi lebih lanjut.
 - [Go Playground](https://play.golang.org/) - Cobalah dan uji kode Go secara online.
 - [Udemy](https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/) - Pemrograman Go-Lang : Pemula sampai Mahir
 
