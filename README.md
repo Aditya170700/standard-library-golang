@@ -13,6 +13,7 @@ Selamat datang! Repository ini berisi file pembelajaran standard library di baha
 7. **[math](https://pkg.go.dev/pkg/math)**
 8. **[list](https://pkg.go.dev/pkg/container/list)**
 9. **[ring](https://pkg.go.dev/pkg/container/ring)**
+10. **[sort](https://pkg.go.dev/pkg/sort)**
 
 ## Sumber Daya Eksternal
 
