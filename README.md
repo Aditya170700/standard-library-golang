@@ -10,6 +10,7 @@ Selamat datang! Repository ini berisi file pembelajaran standard library di baha
 4. **[flag](https://pkg.go.dev/pkg/flag)**
 5. **[strings](https://pkg.go.dev/pkg/strings)**
 6. **[strconv](https://pkg.go.dev/pkg/strconv)**
+7. **[math](https://pkg.go.dev/pkg/math)**
 
 ## Sumber Daya Eksternal
 
