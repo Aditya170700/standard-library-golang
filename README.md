@@ -6,6 +6,7 @@ Selamat datang! Repository ini berisi file pembelajaran standard library di baha
 
 1. **[fmt](https://pkg.go.dev/fmt)**
 2. **[errors](https://pkg.go.dev/errors)**
+3. **[os](https://pkg.go.dev/os)**
 
 ## Sumber Daya Eksternal
 
