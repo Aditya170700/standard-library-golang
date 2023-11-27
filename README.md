@@ -8,6 +8,7 @@ Selamat datang! Repository ini berisi file pembelajaran standard library di baha
 2. **[errors](https://pkg.go.dev/errors)**
 3. **[os](https://pkg.go.dev/os)**
 4. **[flag](https://pkg.go.dev/pkg/flag)**
+5. **[strings](https://pkg.go.dev/pkg/strings)**
 
 ## Sumber Daya Eksternal
 
