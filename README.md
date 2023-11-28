@@ -14,6 +14,7 @@ Selamat datang! Repository ini berisi file pembelajaran standard library di baha
 8. **[list](https://pkg.go.dev/pkg/container/list)**
 9. **[ring](https://pkg.go.dev/pkg/container/ring)**
 10. **[sort](https://pkg.go.dev/pkg/sort)**
+11. **[time](https://pkg.go.dev/pkg/time)**
 
 ## Sumber Daya Eksternal
 
