@@ -20,6 +20,7 @@ Selamat datang! Repository ini berisi file pembelajaran standard library di baha
 14. **[encoding](https://pkg.go.dev/encoding)**
 15. **[slices](https://pkg.go.dev/slices)**
 16. **[path](https://pkg.go.dev/path)**
+17. **[bufio](https://pkg.go.dev/bufio)**
 
 ## Sumber Daya Eksternal
 
