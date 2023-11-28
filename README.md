@@ -18,6 +18,7 @@ Selamat datang! Repository ini berisi file pembelajaran standard library di baha
 12. **[reflect](https://pkg.go.dev/pkg/reflect)**
 13. **[regexp](https://pkg.go.dev/pkg/regexp)**
 14. **[encoding](https://pkg.go.dev/encoding)**
+15. **[slices](https://pkg.go.dev/slices)**
 
 ## Sumber Daya Eksternal
 
